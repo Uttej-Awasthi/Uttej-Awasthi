@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+I am a Salesforce Consultant and Platform Developer with strong hands-on experience in designing, implementing, and supporting enterprise-grade Salesforce solutions, with a primary focus on Sales Cloud, Service Cloud, and Financial Services Cloud. I hold Salesforce Administrator (ADM-201), Platform Developer I (PD-1), and Salesforce Certified AI Associate certifications, which reflect both my functional understanding of the platform and my ability to deliver technically sound, scalable solutions.<br><br>In my professional experience, I have worked extensively on Financial Services Cloud implementations, where I was involved in end-to-end delivery of business-critical processes such as lead and referral management, relationship-based data modeling, ownership assignment logic, and opportunity conversion flows. I have designed and implemented complex Screen Flows to handle scenarios like creating referrals from existing person and business account relationships, one-click lead and referral conversion to opportunities, dynamic record type selection based on user access, and automated ownership assignment using branch and role-based logic. These solutions were built using declarative-first approaches, prioritizing maintainability and governance by avoiding unnecessary Apex triggers wherever possible.<br><br>From a technical development standpoint, I have hands-on experience with Lightning Web Components and Apex, and I have built reusable, configurable UI components aligned with Salesforce Lightning Design System standards. A notable example includes developing a generic nested related list LWC capable of displaying parent, child, and grandchild records in a hierarchical tree grid format, supporting features such as sorting, searching, pagination, inline editing, record deletion, and immediate UI refresh without page reloads. These components were designed to be configurable via design attributes and field sets, enabling reuse across multiple objects and record pages.<br><br>I also have solid experience with OmniStudio, where I have worked on OmniScripts, FlexCards, DataRaptors, and Integration Procedures. My work includes building collapsible parent-child FlexCards for displaying account and contact hierarchies, configuring DataRaptor Extracts and Loads for conditional insert and update logic, and designing OmniScripts embedded within record pages to create or update data with guided user experiences. I am comfortable working with FSC-specific constructs such as relationships, party roles, and expressed interest models, and I ensure alignment with FSC data and security frameworks.<br><br>In addition to delivery, I have been involved in requirement analysis, solution design, and stakeholder collaboration. I routinely translate functional requirements into technical designs, validate edge cases, and ensure that solutions adhere to Salesforce best practices related to performance, security, and scalability. I have experience working in agile delivery models, contributing to sprint planning, story refinement, and iterative development, while maintaining high-quality documentation and clean deployment practices.<br><br>Overall, I consider myself a disciplined and detail-oriented Salesforce professional who combines strong technical execution with a clear understanding of business processes. I am particularly motivated by projects that involve complex logic, data relationships, and user-centric automation, and I am eager to continue growing as a Salesforce Consultant within large-scale implementations, especially in Financial Services Cloud and consulting-driven environments.
 
-<!--
-**Uttej-Awasthi/Uttej-Awasthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/uttej-awasthi-201a7816a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:awasthi.uttej@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Uttej-Awasthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Uttej-Awasthi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttej-Awasthi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Uttej-Awasthi&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Uttej-Awasthi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
